@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">My Application</string>
     <string name="app_message">Hello World</string>
+
+    <string name="app_button">Upgrade App</string>
+    <string name="app_checkbox">Hello Universe</string>
 </resources>
